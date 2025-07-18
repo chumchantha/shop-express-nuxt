@@ -1,10 +1,9 @@
-#Shop Project:
-##Both Frontend and Backend
+#Shop Project: Both Frontend and Backend
 
 - Frontend: Nuxtjs, Vue
 - Backend: Node, Express
 
-###Feature
+##Feature
 
 - Authentication: JWT(username, password)
 - Bakong KHQR Payment
